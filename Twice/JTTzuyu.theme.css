@@ -2,10 +2,10 @@
 @import url(https://cmpdc.github.io/bdtf/themes/FullScreenStatusPicker/css/min.css);
 :root {
     --background: url(https://i.imgur.com/JeP1cr4.png);  /*Wallpaper.*/
-    --light: rgba(0, 0, 0, 0.6); /* Overall brightness. 1= black, 0 = transparent */
+    --light: rgba(0, 0, 0, 0.2); /* Overall brightness. 1= black, 0 = transparent */
 	--trans: rgba(0, 0, 0, .0);	
-	--font: wingdings;	
-	--font-size: 25px ;
+	--font: sans-serif;	
+	--font-size: 17px ;
 	--text:  #fff;
 	--load1: "Thank you for";
     --load2: "Downloading my Theme";
